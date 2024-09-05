@@ -91,7 +91,7 @@ body {
         opacity: 1;
     }
 }
-
+/* CSS COMMENT */
 
 #gallery img:nth-of-type(-n+4) {
     width: 20%;
